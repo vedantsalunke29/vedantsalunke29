@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a **3rd-year BE (IT) student** at **Pune Insti
 
 ## 🌱 What I'm Learning
 - **Advanced Spring Boot & Microservices** (API Gateway, Eureka, OpenFeign)
-- **AI & Machine Learning** (ARIMA, LSTMs, Isolation Forest for anomaly detection)
 - **Cloud & DevOps** (Docker, Prometheus, GitHub Actions)
 
 ## 💼 Featured Projects
