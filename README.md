@@ -1,6 +1,6 @@
 # Hi there, I'm Vedant Salunke 👋
 
-Welcome to my GitHub profile! I'm a **3rd-year BE (IT) student** at **Pune Institute of Computer Technology (PICT), Pune**, passionate about **full-stack development**, **machine learning**, and **building scalable applications**.
+Welcome to my GitHub profile! I'm a **4th-year BE (IT) student** at **Pune Institute of Computer Technology (PICT), Pune**, passionate about **full-stack development**, **machine learning**, and **building scalable applications**.
 
 ## 🔭 What I'm Currently Working On
 - **Go Smart Fintool**: As a **Front-End Developer Intern**, I build and optimize web applications using **React, TypeScript, and Material UI**.
