@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Vedant Salunke
+#  Hi, I'm Vedant Salunke
 
 Software Engineer passionate about building scalable systems, clean frontends, and production-ready backend architectures.
 
 ---
 
-## 🚀 About Me
+##  About Me
 - Software Engineer Intern at **Uptiq**
 - Experience building high-performance MERN and Spring Boot systems
 - Strong focus on backend engineering, system design, and reliability
@@ -12,7 +12,7 @@ Software Engineer passionate about building scalable systems, clean frontends, a
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 - Java, C++, Python, JavaScript, TypeScript, SQL
@@ -33,7 +33,7 @@ Software Engineer passionate about building scalable systems, clean frontends, a
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🔹 File House
 Distributed file management system using Spring Boot microservices with JWT-secured API Gateway, Resilience4j fault tolerance, and Prometheus monitoring.
@@ -43,7 +43,7 @@ AI-powered voice assistant for YouTube Music using FastAPI, speech recognition, 
 
 ---
 
-## 🌐 Links
+##  Links
 - **GitHub:** https://github.com/vedantsalunke29  
 - **LinkedIn:** https://linkedin.com/in/vedant-salunke-57167023b  
 - **LeetCode:** https://leetcode.com/u/vedant_salunke  
